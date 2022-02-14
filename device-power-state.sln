@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "device-power-state", "device-power-state\device-power-state.csproj", "{46C64AC5-9D14-4C0D-8DDD-B6BD0811F4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C64AC5-9D14-4C0D-8DDD-B6BD0811F4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C64AC5-9D14-4C0D-8DDD-B6BD0811F4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C64AC5-9D14-4C0D-8DDD-B6BD0811F4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C64AC5-9D14-4C0D-8DDD-B6BD0811F4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9E99BD-B8A4-45D7-93A3-CE0A71A1683F}
+	EndGlobalSection
+EndGlobal
